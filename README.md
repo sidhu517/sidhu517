@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sidhu517
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Mean Stack
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Website Development
 - 📫 How to reach me siddheshwar0903@gmail.com
 
 <!---
